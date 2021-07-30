@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/project/sintal-surat-ijin-digital-20", {data:[{}],fetch:[],mutations:[]});

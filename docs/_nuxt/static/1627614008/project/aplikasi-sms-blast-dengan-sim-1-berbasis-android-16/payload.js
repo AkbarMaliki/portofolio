@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/project/aplikasi-sms-blast-dengan-sim-1-berbasis-android-16", {data:[{}],fetch:[],mutations:[]});
