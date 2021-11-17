@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/penilaian-pelayanan-front-liner-di-bank-btn-berbasis-pwa-5", {data:[{}],fetch:[],mutations:[]});

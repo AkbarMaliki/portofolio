@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/aplikasi-absensi-online-berbasis-android-ios-21", {data:[{}],fetch:[],mutations:[]});

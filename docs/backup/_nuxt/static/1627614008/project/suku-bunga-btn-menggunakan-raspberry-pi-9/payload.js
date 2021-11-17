@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/suku-bunga-btn-menggunakan-raspberry-pi-9", {data:[{}],fetch:[],mutations:[]});
