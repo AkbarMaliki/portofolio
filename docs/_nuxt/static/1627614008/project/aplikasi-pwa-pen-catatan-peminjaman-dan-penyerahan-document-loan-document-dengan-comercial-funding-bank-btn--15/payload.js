@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/aplikasi-pwa-pen-catatan-peminjaman-dan-penyerahan-document-loan-document-dengan-comercial-funding-bank-btn--15", {data:[{}],fetch:[],mutations:[]});

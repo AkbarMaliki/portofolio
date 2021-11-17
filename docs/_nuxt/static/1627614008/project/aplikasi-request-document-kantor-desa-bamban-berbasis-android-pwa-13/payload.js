@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/aplikasi-request-document-kantor-desa-bamban-berbasis-android-pwa-13", {data:[{}],fetch:[],mutations:[]});

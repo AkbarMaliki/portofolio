@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/aplikasi-control-tv-suku-bunga-berbasis-android-di-bank-btn-kc-banjarbaru-2", {data:[{}],fetch:[],mutations:[]});

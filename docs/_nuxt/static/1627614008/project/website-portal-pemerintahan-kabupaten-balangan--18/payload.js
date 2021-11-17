@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/website-portal-pemerintahan-kabupaten-balangan--18", {data:[{}],fetch:[],mutations:[]});

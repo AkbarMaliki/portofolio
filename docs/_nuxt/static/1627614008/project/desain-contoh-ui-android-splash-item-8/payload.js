@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/desain-contoh-ui-android-splash-item-8", {data:[{}],fetch:[],mutations:[]});

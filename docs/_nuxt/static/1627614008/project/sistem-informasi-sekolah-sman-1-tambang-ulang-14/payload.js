@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/sistem-informasi-sekolah-sman-1-tambang-ulang-14", {data:[{}],fetch:[],mutations:[]});

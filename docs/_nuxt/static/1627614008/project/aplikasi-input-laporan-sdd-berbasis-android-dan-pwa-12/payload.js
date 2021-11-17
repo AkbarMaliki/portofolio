@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/project/aplikasi-input-laporan-sdd-berbasis-android-dan-pwa-12", {data:[{}],fetch:[],mutations:[]});
