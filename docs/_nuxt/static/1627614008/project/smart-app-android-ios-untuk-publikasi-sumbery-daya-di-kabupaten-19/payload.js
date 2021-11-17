@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/project/smart-app-android-ios-untuk-publikasi-sumbery-daya-di-kabupaten-19", {data:[{}],fetch:[],mutations:[]});

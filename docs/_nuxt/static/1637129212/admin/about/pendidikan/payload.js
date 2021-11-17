@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/admin/about/pendidikan", {data:[{}],fetch:[],mutations:[]});
