@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/admin/portofolio/subskill", {data:[{}],fetch:[],mutations:[]});
