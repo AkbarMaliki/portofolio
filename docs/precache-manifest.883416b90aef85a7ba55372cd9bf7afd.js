@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "android-launchericon-512-512.png"
   },
   {
-    "revision": "5168674fe897116e7862",
+    "revision": "df68dd40f596984cdcc2",
     "url": "css/app~7d3de8f5.c5ebbf97.css"
   },
   {
@@ -140,12 +140,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/whatsapp.704b0600.png"
   },
   {
-    "revision": "db74df9eecfbfa6bda961860fc7f55d5",
+    "revision": "3a0eda539332e7ebfaf47b4720b63485",
     "url": "index.html"
   },
   {
-    "revision": "5168674fe897116e7862",
-    "url": "js/app~7d3de8f5.acebfb63.js"
+    "revision": "df68dd40f596984cdcc2",
+    "url": "js/app~7d3de8f5.442364c3.js"
   },
   {
     "revision": "2e30d798f9731848515e",
@@ -192,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-5a7f5923.6cc1681c.js"
   },
   {
-    "revision": "e6ee05faa9ba043e934d",
-    "url": "js/chunk-6e902b31.1b9e63df.js"
+    "revision": "31406d8a2d6247c288d8",
+    "url": "js/chunk-6e902b31.df08d607.js"
   },
   {
     "revision": "d22f5ee33d7c162a026a",
