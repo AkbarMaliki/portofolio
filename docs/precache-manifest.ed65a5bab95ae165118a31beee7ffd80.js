@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "android-launchericon-512-512.png"
   },
   {
-    "revision": "88748c0f0cdbfdb09b9e",
+    "revision": "5db0fff94d6949edfbb6",
     "url": "css/app~7d3de8f5.c5ebbf97.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-45b11d00.53295638.css"
   },
   {
-    "revision": "29b77b70075b70504be9",
+    "revision": "76cbcf893de27c8bd061",
     "url": "css/chunk-595349f4.c46c299b.css"
   },
   {
@@ -140,12 +140,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/whatsapp.704b0600.png"
   },
   {
-    "revision": "ec4d209a1f9248ba3e53c965f6c8c17e",
+    "revision": "240695c66c7569d7133b4683072b22b3",
     "url": "index.html"
   },
   {
-    "revision": "88748c0f0cdbfdb09b9e",
-    "url": "js/app~7d3de8f5.5c7e25fb.js"
+    "revision": "5db0fff94d6949edfbb6",
+    "url": "js/app~7d3de8f5.41aec26e.js"
   },
   {
     "revision": "2e30d798f9731848515e",
@@ -184,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-4ce103cc.18427f78.js"
   },
   {
-    "revision": "29b77b70075b70504be9",
-    "url": "js/chunk-595349f4.9efd33fd.js"
+    "revision": "76cbcf893de27c8bd061",
+    "url": "js/chunk-595349f4.f8c50476.js"
   },
   {
     "revision": "228180e7234ea3846805",
@@ -260,8 +260,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors~73081ec5.39d1d0d4.js"
   },
   {
-    "revision": "db0f7cb7aa7904abb11f",
-    "url": "js/chunk-vendors~754b922b.f6ff7702.js"
+    "revision": "f1241d04a39b63ca900b",
+    "url": "js/chunk-vendors~754b922b.ced2fe39.js"
   },
   {
     "revision": "98b5be89f9dd619fa6a6",
@@ -572,8 +572,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-contact~3d9b8e9e.d4fbbcc3.js"
   },
   {
-    "revision": "5ce1a953748a14fb0bc0",
-    "url": "js/page-index~17169ea3.f6b22181.js"
+    "revision": "dd528e28af449c9e3669",
+    "url": "js/page-index~ba2602be.efeafd4b.js"
   },
   {
     "revision": "1a7779cabff6006215e8",
