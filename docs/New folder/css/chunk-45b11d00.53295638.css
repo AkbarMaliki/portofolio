@@ -1,0 +1,1 @@
+#chevron{position:relative;text-align:center;margin-top:-30px;padding:12px;margin-bottom:6px;height:60px;width:100%}#chevron:before{left:0;width:51%;transform:skew(0deg,6deg)}#chevron:after,#chevron:before{content:"";position:absolute;top:0;height:100%;background:#fff}#chevron:after{right:0;width:50%;transform:skew(0deg,-6deg)}
